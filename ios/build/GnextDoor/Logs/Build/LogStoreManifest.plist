@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>9BF4E050-2743-4342-9291-ACC5CE2389AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9BF4E050-2743-4342-9291-ACC5CE2389AD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GnextDoor project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GnextDoor</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace GnextDoor with scheme GnextDoor and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>593788486.31572902</real>
+			<key>timeStoppedRecording</key>
+			<real>593788494.93304503</real>
+			<key>title</key>
+			<string>Building workspace GnextDoor with scheme GnextDoor and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9BF4E050-2743-4342-9291-ACC5CE2389AD</string>
+		</dict>
+		<key>AE186FB4-4AE6-4316-9709-A98159E8C797</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE186FB4-4AE6-4316-9709-A98159E8C797.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GnextDoor project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GnextDoor</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace GnextDoor with scheme GnextDoor and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>594382869.03798401</real>
+			<key>timeStoppedRecording</key>
+			<real>594382873.13385201</real>
+			<key>title</key>
+			<string>Building workspace GnextDoor with scheme GnextDoor and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AE186FB4-4AE6-4316-9709-A98159E8C797</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
